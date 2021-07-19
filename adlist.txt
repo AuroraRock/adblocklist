@@ -24,5 +24,3 @@ pan.baidu.com##.g-clearfix.dialog-extra
 fanyi.baidu.com###transOtherRight
 fanyi.baidu.com##.download-guide
 fanyi.baidu.com##.cleafix.footer
-! Weibo
-weibo.com##.Nav_links_1ytEi.Links_wrap_mrA8a.woo-box-flex
