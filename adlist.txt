@@ -3,11 +3,12 @@
 ! Version: 202105121
 ! Expires: 2 days
 ! Homepage: https://github.com/AuroraRock/adblocklist
+! DeepL
 www.deepl.com##.dl_ad_pro_container
 www.deepl.com##.lmt--mobile-hidden
 www.deepl.com##.dl_header_menu_v2__items
 www.deepl.com##.dl_top_element--wide.dl_footer
-fanyi.baidu.com##.cleafix.footer
+! Baidu
 pan.baidu.com##a.wp-disk-header__right-item
 pan.baidu.com##.nd-recycle-main__empty
 pan.baidu.com##.app-download
@@ -18,8 +19,10 @@ pan.baidu.com##.find-light-icon
 pan.baidu.com##.aside-absolute-container > div:nth-of-type(2)
 pan.baidu.com##.aside-absolute-container > div:nth-of-type(4)
 pan.baidu.com##.wp-aside-nav__quota-body > [href]
-fanyi.baidu.com###transOtherRight
-fanyi.baidu.com##.download-guide
-weibo.com##.Nav_links_1ytEi.Links_wrap_mrA8a.woo-box-flex
 pan.baidu.com##.GELdyA
 pan.baidu.com##.g-clearfix.dialog-extra
+fanyi.baidu.com###transOtherRight
+fanyi.baidu.com##.download-guide
+fanyi.baidu.com##.cleafix.footer
+! Weibo
+weibo.com##.Nav_links_1ytEi.Links_wrap_mrA8a.woo-box-flex
