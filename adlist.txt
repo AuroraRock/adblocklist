@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! title: No ADs
-! Version: 202105121
+! Version: 20210719
 ! Expires: 2 days
 ! Homepage: https://github.com/AuroraRock/adblocklist
 ! DeepL
