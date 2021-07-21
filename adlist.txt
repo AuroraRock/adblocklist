@@ -4,10 +4,6 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/AuroraRock/adblocklist
 ! DeepL
-www.deepl.com##.dl_ad_pro_container
-www.deepl.com##.lmt--mobile-hidden
-www.deepl.com##.dl_header_menu_v2__items
-www.deepl.com##.dl_top_element--wide.dl_footer
 ! Baidu
 pan.baidu.com##a.wp-disk-header__right-item
 pan.baidu.com##.nd-recycle-main__empty
