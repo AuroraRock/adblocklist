@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! title: No ADs
-! Version: 20210721
+! Version: 20210722
 ! Expires: 1 days
 ! Homepage: https://github.com/AuroraRock/adblocklist
 ! DeepL
@@ -26,8 +26,3 @@ pan.baidu.com##.g-clearfix.dialog-extra
 fanyi.baidu.com###transOtherRight
 fanyi.baidu.com##.download-guide
 fanyi.baidu.com##.cleafix.footer
-! Steam
-store.steampowered.com##.header_installsteam_btn_gray.header_installsteam_btn
-store.steampowered.com##.recently_updated_block.home_page_content
-store.steampowered.com##.esi-customizer.esi-shown.best_selling_vr_ctn.home_ctn
-steamcommunity.com##.header_installsteam_btn_content
