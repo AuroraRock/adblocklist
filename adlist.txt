@@ -36,3 +36,4 @@ user.qzone.qq.com###tb_app_li
 user.qzone.qq.com##.clearfix.head-detail-info
 user.qzone.qq.com###tb_vip_li
 user.qzone.qq.com##.wing-fly.qz-app-flag
+user.qzone.qq.com###site_hot_btn
