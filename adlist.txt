@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! title: No ADs
-! Version: 20210722
+! Version: 20210726
 ! Expires: 1 days
 ! Homepage: https://github.com/AuroraRock/adblocklist
 ! DeepL
@@ -26,3 +26,12 @@ pan.baidu.com##.g-clearfix.dialog-extra
 fanyi.baidu.com###transOtherRight
 fanyi.baidu.com##.download-guide
 fanyi.baidu.com##.cleafix.footer
+! AliYunDrive
+www.aliyundrive.com##.container--CIvrv
+www.aliyundrive.com##.button--1pH7M
+www.aliyundrive.com##.banner--sfaVZ.banner--3e7DO
+! Qzone
+user.qzone.qq.com##.mod-side-nav-recently-used.mod-side-nav
+user.qzone.qq.com###tb_app_li
+user.qzone.qq.com##.clearfix.head-detail-info
+user.qzone.qq.com###tb_vip_li
