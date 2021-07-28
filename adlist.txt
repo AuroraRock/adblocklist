@@ -26,6 +26,9 @@ pan.baidu.com##.g-clearfix.dialog-extra
 fanyi.baidu.com###transOtherRight
 fanyi.baidu.com##.download-guide
 fanyi.baidu.com##.cleafix.footer
+baike.baidu.com###side-share
+baike.baidu.com##.appdownload.item
+baike.baidu.com##.lemmaWgt-promotion-slide
 ! AliYunDrive
 www.aliyundrive.com##.container--CIvrv
 www.aliyundrive.com##.button--1pH7M
