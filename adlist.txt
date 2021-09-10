@@ -1,45 +1,16 @@
 [Adblock Plus 2.0]
 ! title: No ADs
-! Version: 20210726
+! Version: 20210910
 ! Expires: 1 days
 ! Homepage: https://github.com/AuroraRock/adblocklist
-! DeepL
-www.deepl.com##.lmt--mobile-hidden
-www.deepl.com###dl_menu_deepl_pro
-www.deepl.com###dl_menu_plans_and_pricing
-www.deepl.com##.dl_header_menu_v2__buttons
-www.deepl.com##.dl_ad_pro_container
-www.deepl.com##.eSEOtericText.dl_visible_desktop_only.dl_top_element--wide.dl_body--redesign
-! Baidu
-pan.baidu.com##a.wp-disk-header__right-item
-pan.baidu.com##.nd-recycle-main__empty
-pan.baidu.com##.app-download
-pan.baidu.com##.KQcHyA
-pan.baidu.com##.app-icon.app-theme.icon-theme.icon
+! 2021-09-10 https://pan.baidu.com
 pan.baidu.com##.gOIbzPb
-pan.baidu.com##.find-light-icon
-pan.baidu.com##.aside-absolute-container > div:nth-of-type(2)
-pan.baidu.com##.aside-absolute-container > div:nth-of-type(4)
-pan.baidu.com##.wp-aside-nav__quota-body > [href]
-pan.baidu.com##.GELdyA
-pan.baidu.com##.g-clearfix.dialog-extra
-fanyi.baidu.com###transOtherRight
-fanyi.baidu.com##.download-guide
-fanyi.baidu.com##.cleafix.footer
-baike.baidu.com###side-share
-baike.baidu.com##.appdownload.item
-baike.baidu.com##.lemmaWgt-promotion-slide
-! AliYunDrive
-www.aliyundrive.com##.container--CIvrv
-www.aliyundrive.com##.button--1pH7M
-www.aliyundrive.com##.banner--sfaVZ.banner--3e7DO
-! Qzone
-user.qzone.qq.com##.mod-side-nav-recently-used.mod-side-nav
-user.qzone.qq.com###tb_app_li
-user.qzone.qq.com##.clearfix.head-detail-info
-user.qzone.qq.com###tb_vip_li
-user.qzone.qq.com##.wing-fly.qz-app-flag
-user.qzone.qq.com###site_hot_btn
-!
-sm.ms##.footer
-sm.ms##.download-box
+pan.baidu.com##.g-clearfix.wp-side-options
+pan.baidu.com##.newIcon
+pan.baidu.com##.app-user-vip-center
+pan.baidu.com##.app-download
+pan.baidu.com###web-header-text-s-7
+pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(2)
+pan.baidu.com##a.wp-disk-header__right-item:nth-of-type(6)
+pan.baidu.com##.company-cert.wp-disk-header__right-item
+pan.baidu.com##.nd-main-filelist__empty-download
