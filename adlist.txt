@@ -14,3 +14,4 @@ pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(2)
 pan.baidu.com##a.wp-disk-header__right-item:nth-of-type(6)
 pan.baidu.com##.company-cert.wp-disk-header__right-item
 pan.baidu.com##.nd-main-filelist__empty-download
+pan.baidu.com##.btn-img-tips
