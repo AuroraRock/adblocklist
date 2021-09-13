@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! title: No ADs
-! Version: 20210910-3
+! Version: 20210913
 ! Expires: 1 days
 ! Homepage: https://github.com/AuroraRock/adblocklist
 ! 2021-09-10 https://pan.baidu.com
@@ -16,3 +16,5 @@ pan.baidu.com##.company-cert.wp-disk-header__right-item
 pan.baidu.com##.nd-main-filelist__empty-download
 pan.baidu.com##.btn-img-tips
 pan.baidu.com##.g-clearfix.dialog-extra
+! 2021-09-13 https://www.aliyundrive.com
+www.aliyundrive.com##.banner--sfaVZ.banner--3e7DO
